@@ -1,2 +1,12 @@
-nw_dw_6830200523
-นางสาวกฤติยา เต็มไทรสงค์ เลขที่2
+# **Command Lind**\
+
+- create python env. witch the 
+name: .venv
+`python -m venv .venv`
+
+``` python
+python -m venv .venv
+pip install -r requirement.txt
+
+print('Hello world')
+```
